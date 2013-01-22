@@ -4,11 +4,15 @@
 
 
 html, body {
-        height: 100%;
-        margin: 0;
-      }
+  height: 100%;
+  margin: 0;
+}
 
-#target-page {
-  min-height: 100%; 
+iframe {
+  height: 80%; 
+  width: 100%;
+}
+#talkwrapper {
+  min-height: 200px; 
   width: 100%;
 }
